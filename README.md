@@ -10,4 +10,5 @@ https://github.com/Gabrielbbe/pdf2img2latex
 
 Example of search : 
 
-![example](https://github.com/Gabrielbbe/Prototype_search_mathematics/assets/104850235/f5ebdfe3-57df-4496-820c-f207fc50f057)
+
+![example](https://github.com/Gabrielbbe/Prototype_search_mathematics/assets/104850235/ddb294b6-137e-4d1d-90d8-3a327c016eaa)
