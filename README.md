@@ -18,6 +18,6 @@ Made with streamlit, to run it:
 install python, and the packages streamlit, sklearn and pandas p
 clone this repo and in the command line where this repo is located type:
 
-'''
+```
 streamlit run main.py
-'''
+```
