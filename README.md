@@ -13,3 +13,11 @@ Then I created a interface to simulate a search engine to search the latex code 
 Example of search : 
 
 ![example](https://github.com/Gabrielbbe/Prototype_search_mathematics/assets/104850235/ddb294b6-137e-4d1d-90d8-3a327c016eaa)
+
+Made with streamlit, to run it:
+install python, and the packages streamlit, sklearn and pandas p
+clone this repo and in the command line where this repo is located type:
+
+'''
+streamlit run main.py
+'''
